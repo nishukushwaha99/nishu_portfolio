@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nishukushwaha99.github.io/nishu_portfolio/sitemap.xml
